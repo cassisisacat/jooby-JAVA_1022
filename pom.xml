@@ -76,7 +76,7 @@
     <hibernate.version>7.4.12.Final</hibernate.version>
     <ebean.version>19.6.0</ebean.version>
     <jdbi.version>3.55.0</jdbi.version>
-    <flyway.version>11.20.1</flyway.version>
+    <flyway.version>11.20.3</flyway.version>
     <graphql-java.version>26.1</graphql-java.version>
     <lettuce.version>7.8.0.RELEASE</lettuce.version>
     <commons-pool2.version>2.13.1</commons-pool2.version>
@@ -1626,7 +1626,7 @@
                 </sortPom>
               </pom>
               <java>
-                <toggleOffOn />
+                <toggleOffOn/>
                 <googleJavaFormat>
                   <reflowLongStrings>true</reflowLongStrings>
                 </googleJavaFormat>
